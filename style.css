@@ -736,7 +736,7 @@ form textarea {
 }
 .feed form input {
 	margin-bottom: 15px;
-	width: 50%;
+	width: 100%;
 }
 .feed form .fname {
 	width: 25%;
