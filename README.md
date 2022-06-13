@@ -2,4 +2,4 @@
 
 Website for Orison Learning Studio
 
-[![AppVeyor](https://img.shields.io/badge/Github_Pages-Live-lightgreen)](https://pankajkushwaha123.github.io/QR-Code-Generator/)
+[![AppVeyor](https://img.shields.io/badge/Github_Pages-Live-lightgreen)](https://hardiksharma02.github.io/orison_web/)
